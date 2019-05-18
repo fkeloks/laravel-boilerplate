@@ -19,6 +19,7 @@ Laravel 5.8 Boilerplate by Florian B.
 * Timezone set on `Europe/Paris`
 * IDE Helper (With the `barryvdh/laravel-ide-helper` library)
 * Laravel Debugbar (With the `barryvdh/laravel-debugbar` library)
+* Laravel N+1 Query Detector (With the `beyondcode/laravel-query-detector` library)
 
 ## System Requirements
 
