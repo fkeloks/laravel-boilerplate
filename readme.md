@@ -18,6 +18,7 @@ Laravel 5.8 Boilerplate by Florian B.
 * French translations (Based on the `caouecs/laravel-lang` library)
 * Timezone set on `Europe/Paris`
 * IDE Helper (With the `barryvdh/laravel-ide-helper` library)
+* Laravel Debugbar (With the `barryvdh/laravel-debugbar` library)
 
 ## System Requirements
 
