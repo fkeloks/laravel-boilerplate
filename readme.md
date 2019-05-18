@@ -20,7 +20,7 @@ Laravel 5.8 Boilerplate by Florian B.
 * IDE Helper (With the `barryvdh/laravel-ide-helper` library)
 * Laravel Debugbar (With the `barryvdh/laravel-debugbar` library)
 * Laravel N+1 Query Detector (With the `beyondcode/laravel-query-detector` library)
-* Commenting on the `api`, `channels` and `console` routes
+* Remove default routes for `api`, `channels`, and `console`
 
 ## System Requirements
 
