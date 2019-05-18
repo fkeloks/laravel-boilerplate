@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-# Laravel 5.* Boilerplate
+# Laravel 5.8 Boilerplate
 
-Laravel 5.* Boilerplate by Florian B.
+Laravel 5.8 Boilerplate by Florian B.
 
 ## Features - Changes from Official Laravel
 
