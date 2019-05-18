@@ -11,7 +11,7 @@
 
 Laravel 5.8 Boilerplate by Florian B.
 
-## Features - Changes from Official Laravel
+## Features - Changes from the official Laravel project
 
 * Authentication system (Using the `artisan make:auth` command)
   * Seeder for a default user (email: `admin@local.dev`, password: `admin`)
