@@ -14,3 +14,6 @@ yarn-error.log
 .idea/
 .phpstorm.meta.php
 _ide_helper.php
+
+# Laravel Debugbar
+storage/debugbar/
