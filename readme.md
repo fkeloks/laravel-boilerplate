@@ -13,14 +13,17 @@ Laravel 5.8 Boilerplate by Florian B.
 
 ## Features - Changes from Official Laravel
 
-* Add the `.idea` folder to the `.gitignore` file
 * Authentication system (Using the `artisan make:auth` command)
+  * Seeder for a default user (email: `admin@local.dev`, password: `admin`)
+* Third-party libraries for more efficient development
+    * IDE Helper (With the `barryvdh/laravel-ide-helper` library)
+    * Laravel Debugbar (With the `barryvdh/laravel-debugbar` library)
+    * Laravel N+1 Query Detector (With the `beyondcode/laravel-query-detector` library)
 * French translations (Based on the `caouecs/laravel-lang` library)
 * Timezone set on `Europe/Paris`
-* IDE Helper (With the `barryvdh/laravel-ide-helper` library)
-* Laravel Debugbar (With the `barryvdh/laravel-debugbar` library)
-* Laravel N+1 Query Detector (With the `beyondcode/laravel-query-detector` library)
+* Configuration `defaultStringLength` set to `191` (for possible compatibility issues)
 * Remove default routes for `api`, `channels`, and `console`
+* Add the `.idea` folder to the `.gitignore` file
 
 ## System Requirements
 
