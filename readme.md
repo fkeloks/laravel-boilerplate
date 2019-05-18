@@ -14,6 +14,7 @@ Laravel 5.* Boilerplate by Florian B.
 ## Features - Changes from Official Laravel
 
 * Add the `.idea` folder to the `.gitignore` file
+* Authentication system (Using the `artisan make: auth` command)
 
 ## System Requirements
 
