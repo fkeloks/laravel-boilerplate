@@ -14,7 +14,7 @@ Laravel 5.8 Boilerplate by Florian B.
 ## Features - Changes from Official Laravel
 
 * Add the `.idea` folder to the `.gitignore` file
-* Authentication system (Using the `artisan make: auth` command)
+* Authentication system (Using the `artisan make:auth` command)
 * French translations (Based on the `caouecs/laravel-lang` library)
 * Timezone set on `Europe/Paris`
 
