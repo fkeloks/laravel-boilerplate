@@ -5,8 +5,12 @@
 /vendor
 .env
 .phpunit.result.cache
-.idea
 Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+
+# PhpStorm
+.idea/
+.phpstorm.meta.php
+_ide_helper.php

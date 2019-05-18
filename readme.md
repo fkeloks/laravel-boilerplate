@@ -17,6 +17,7 @@ Laravel 5.8 Boilerplate by Florian B.
 * Authentication system (Using the `artisan make:auth` command)
 * French translations (Based on the `caouecs/laravel-lang` library)
 * Timezone set on `Europe/Paris`
+* IDE Helper (With the `barryvdh/laravel-ide-helper` library)
 
 ## System Requirements
 
