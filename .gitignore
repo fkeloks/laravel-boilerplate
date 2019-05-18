@@ -1,19 +1,26 @@
-/node_modules
-/public/hot
-/public/storage
-/storage/*.key
-/vendor
-.env
-.phpunit.result.cache
-Homestead.json
-Homestead.yaml
+# Npm + Yarn
+node_modules/
 npm-debug.log
 yarn-error.log
+
+# Laravel files
+.env
+public/hot/
+public/storage/
+storage/*.key
+storage/debugbar/
+
+# Composer
+vendor/
+
+# Homestead
+Homestead.json
+Homestead.yaml
+
+# PhpUnit
+.phpunit.result.cache
 
 # PhpStorm
 .idea/
 .phpstorm.meta.php
 _ide_helper.php
-
-# Laravel Debugbar
-storage/debugbar/
