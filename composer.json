@@ -1,10 +1,11 @@
 {
-    "name": "laravel/laravel",
+    "name": "fkeloks/laravel-boilerplate",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "The Laravel Framework - Boilerplate by Florian B.",
     "keywords": [
         "framework",
-        "laravel"
+        "laravel",
+        "boilerplate"
     ],
     "license": "MIT",
     "require": {
